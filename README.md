@@ -59,4 +59,4 @@ Shweta Daundkar
 
 Aspiring Data Analyst | Power BI | SQL | Excel
 
-🔗 LinkedIn: Connect with me
+🔗 LinkedIn: https://www.linkedin.com/in/shweta-daundkar
