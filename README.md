@@ -53,6 +53,12 @@ The dashboard helps identify:
 * Excel dataset.
 * Project documentation (README.md).
 
+* 📊 Dashboard Preview
+
+Page 1: Sales_dashboard.png
+
+Page 2: Sales_Drillthrough.png
+
 👩‍💻 Author
 
 Shweta Daundkar
